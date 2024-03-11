@@ -1,4 +1,4 @@
-# FIibonacci-Generator for CodeAlpha Task 1
+# FIibonacci-Generator for CodeAlpha internship Task 1
 This code defines a Python script to generate Fibonacci numbers and provides a user-friendly menu interface to interact with the Fibonacci generator.
 
 - generate_fibonacci(limit): This function generates Fibonacci numbers up to the specified limit. It initializes a list fibonacci with the first two Fibonacci numbers [0, 1], and then iteratively calculates and appends the next Fibonacci numbers until the sum of the last two numbers exceeds the specified limit. The function returns the list of Fibonacci numbers.
